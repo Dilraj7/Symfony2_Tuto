@@ -1,0 +1,4 @@
+MyAppFilmothequeBundle:
+    resource: "@MyAppFilmothequeBundle/Resources/config/routing.yml"
+    prefix:   /myapp
+
